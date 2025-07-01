@@ -1,0 +1,5 @@
+# Created at 2025-06-30T17:59:10.515
+Boot Manifest-JAR contains absolute paths in classpath 'F:\2.Royal\Spring - Tejas Sir\microservices-new\microservice-new\product-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
