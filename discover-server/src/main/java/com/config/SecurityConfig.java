@@ -13,7 +13,6 @@ public class SecurityConfig {
 		httpSecurity
 			.authorizeHttpRequests(auth ->
 				auth.requestMatchers("/", "/eureka/**", "/css/**", "/js/**").authenticated()
-				.anyRequest().permitAll()
 			)
 			.httpBasic()
 			.and()
